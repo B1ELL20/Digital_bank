@@ -25,7 +25,7 @@ const AppBank = () => {
               <AppTitle>Acesso fácil, rápido e sem complicação</AppTitle>
               <Appdesc>Adquira já o nosso app, disponível para todos os dispositivos!</Appdesc>
               <BoxButton>
-                <AppBtn><AndroidIcon />Androind</AppBtn>
+                <AppBtn><AndroidIcon />Android</AppBtn>
                 <AppBtn><IosIcon />IOS</AppBtn>
                 <AppBtn><WindowsIcon />Windows</AppBtn>
               </BoxButton>
