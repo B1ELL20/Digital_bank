@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Digital_bank/static/css/main.d7da34c1.css",
-    "main.js": "/Digital_bank/static/js/main.69f60f71.js",
-    "static/media/img1.svg": "/Digital_bank/static/media/img1.0f626326d73cffad40f3ed77ec59984b.svg",
-    "static/media/img5.svg": "/Digital_bank/static/media/img5.41ddf5540130f9f721bfc6fed376d63b.svg",
-    "static/media/capa.svg": "/Digital_bank/static/media/capa.8fa2603a12c4293c1d922fdaa0c4658f.svg",
-    "static/media/img4.svg": "/Digital_bank/static/media/img4.90a653ffe1e7d2a1b44c9c4f1d692a3e.svg",
-    "static/media/app.svg": "/Digital_bank/static/media/app.d2fda612727dd667e2763a34d662aa6e.svg",
-    "static/media/img3.svg": "/Digital_bank/static/media/img3.a0e920cb3fc7ab3d0950a3a64ddb811d.svg",
-    "static/media/wave_bottom.svg": "/Digital_bank/static/media/wave_bottom.c3164bf025e2a03cb7da3563b2a02cac.svg",
-    "static/media/wave_top.svg": "/Digital_bank/static/media/wave_top.0c1d8b1bbc599c3d94a87dd6aaf87b38.svg",
-    "index.html": "/Digital_bank/index.html",
-    "main.d7da34c1.css.map": "/Digital_bank/static/css/main.d7da34c1.css.map",
-    "main.69f60f71.js.map": "/Digital_bank/static/js/main.69f60f71.js.map"
+    "main.css": "/Digital_bank/public/static/css/main.d7da34c1.css",
+    "main.js": "/Digital_bank/public/static/js/main.89e4a8cc.js",
+    "static/media/img1.svg": "/Digital_bank/public/static/media/img1.0f626326d73cffad40f3ed77ec59984b.svg",
+    "static/media/img5.svg": "/Digital_bank/public/static/media/img5.41ddf5540130f9f721bfc6fed376d63b.svg",
+    "static/media/capa.svg": "/Digital_bank/public/static/media/capa.8fa2603a12c4293c1d922fdaa0c4658f.svg",
+    "static/media/img4.svg": "/Digital_bank/public/static/media/img4.90a653ffe1e7d2a1b44c9c4f1d692a3e.svg",
+    "static/media/app.svg": "/Digital_bank/public/static/media/app.d2fda612727dd667e2763a34d662aa6e.svg",
+    "static/media/img3.svg": "/Digital_bank/public/static/media/img3.a0e920cb3fc7ab3d0950a3a64ddb811d.svg",
+    "static/media/wave_bottom.svg": "/Digital_bank/public/static/media/wave_bottom.c3164bf025e2a03cb7da3563b2a02cac.svg",
+    "static/media/wave_top.svg": "/Digital_bank/public/static/media/wave_top.0c1d8b1bbc599c3d94a87dd6aaf87b38.svg",
+    "index.html": "/Digital_bank/public/index.html",
+    "main.d7da34c1.css.map": "/Digital_bank/public/static/css/main.d7da34c1.css.map",
+    "main.89e4a8cc.js.map": "/Digital_bank/public/static/js/main.89e4a8cc.js.map"
   },
   "entrypoints": [
     "static/css/main.d7da34c1.css",
-    "static/js/main.69f60f71.js"
+    "static/js/main.89e4a8cc.js"
   ]
 }
