@@ -1,6 +1,7 @@
 {
   "name": "landing_page_bank",
   "version": "0.1.0",
+  "homepage": "Digital_bank/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
